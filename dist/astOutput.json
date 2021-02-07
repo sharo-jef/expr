@@ -53,8 +53,8 @@
                             },
                             "right": {
                                 "type": "Literal",
-                                "value": 0,
-                                "raw": ".0.0.0"
+                                "value": 2.2,
+                                "raw": "2.2"
                             },
                             "operator": "/"
                         },
