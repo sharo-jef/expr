@@ -1,0 +1,5 @@
+{
+    "input": "./src/input.expr",
+    "astOutput": "./dist/astOutput.json",
+    "output": "./dist/output.js"
+}
